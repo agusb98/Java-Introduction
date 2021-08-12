@@ -1,5 +1,5 @@
 # javaCourse
 
-link: https://www.youtube.com/watch?v=eIrMbAQSU34
 
-I have no time to finih yet..
+
+begin tutorial from: https://www.youtube.com/watch?v=eIrMbAQSU34

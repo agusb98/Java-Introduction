@@ -8,9 +8,11 @@ public class App {
             System.out.println(fruits[i]);
         }
 
-        //SAME AS
+        //SAME AS, is like foreach
         for(String fruit: fruits){
             System.out.println(fruit);
         }
+        
+        
     }
 }
